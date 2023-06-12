@@ -1,0 +1,7 @@
+# ready for use ELT 
+/pgsync
+
+*__pycache__
+
+.env
+app/.env
